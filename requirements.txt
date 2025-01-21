@@ -1,0 +1,6 @@
+streamlit
+opencv-python
+torch
+torchvision
+ffmpeg-python
+azure-cognitiveservices-vision-face
