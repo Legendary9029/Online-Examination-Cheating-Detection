@@ -4,3 +4,5 @@ torch
 torchvision
 ffmpeg-python
 azure-cognitiveservices-vision-face
+opencv-python-headless
+numpy
